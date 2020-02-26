@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="240ccc34-9904-4e45-93a8-f981d8ad358f" name="variables and-types" url="http://bootcamp-coders.cnm.edu/ibyrne1/variablestypes">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/ibyrne1/public_html/variablestypes" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
